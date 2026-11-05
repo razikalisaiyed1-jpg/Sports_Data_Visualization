@@ -1,8 +1,6 @@
 
 # Sports Performance: A Visual Exploration of NBA Players
 
-## CodeAlpha Internship — Task 2: Data Visualization
-
 ## About the Project
 
 This project explores NBA player statistics from the 2023–2024 season using Python data visualization libraries.
@@ -41,7 +39,7 @@ The goal is to understand player scoring, assists, rebounds, shooting efficiency
 ## Project Structure
 
 ```text
-CodeAlpha_Sports_Data_Visualization/
+Sports_Data_Visualization/
 └── Sports_Performance_Visualization.ipynb
 ```
 
@@ -66,10 +64,6 @@ An internet connection is required to load the dataset from its online CSV sourc
 ## Learning Outcomes
 
 This project provided practice in loading and inspecting data, creating different chart types, comparing performance statistics, and communicating observations through visualization.
-
-## Internship
-
-Created as part of **CodeAlpha Internship — Task 2: Data Visualization**.
 
 ## Author
 
